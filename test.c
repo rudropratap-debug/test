@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main(){
-    // Group NO : 4
+    // Group NO : 5
     // Assignment : 1
 
 
